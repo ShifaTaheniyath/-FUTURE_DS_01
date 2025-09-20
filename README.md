@@ -27,7 +27,13 @@ Built an interactive Business Sales Dashboard using Power BI to analyze supersto
 🚀 This task helped me improve my data visualization and storytelling skills by turning raw data into meaningful business insights. Looking forward to continuing with upcoming tasks and gaining more hands-on learning opportunities
 
 🔗 GitHub: https://github.com/ShifaTaheniyath/-FUTURE_DS_01
+
+
 Gmail: taheniyathshifa785@gmail.com
+
+
 Linkedin: https://www.linkedin.com/posts/shifa-taheniyath
+
+
 
 #Task1 #FutureInterns #Dashboard #DataAnalytics #BusinessIntelligence #PowerBI #SuperstoreSales #InternshipPreparation #FutureInterns #DataVisualization #LearningByDoing
